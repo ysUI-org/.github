@@ -1,12 +1,4 @@
-## Hi there 👋
+# ysUI 
+👋 A short introduction - ysUI is a collection of free building blocks for your desktop UI projects to allow you to create better user experiences, interfaces and documentation quicker, and more efficiently.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🎨 Contribution guidelines - You can find our style guidelines at our website or within the docs folder of each project.
